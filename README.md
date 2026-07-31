@@ -14,13 +14,11 @@ I build practical websites, business systems, and AI automations that reduce man
 
 ## Featured proof
 
-1. [newsharness](https://github.com/element-bendr/newsharness) — Cloudflare-native AI intelligence system
-2. [memory-os](https://github.com/element-bendr/memory-os) — AI coding-agent memory system
-3. [trifecta-kpdc](https://github.com/element-bendr/trifecta-kpdc) — multi-site institutional publishing system
-4. [steelmade-cloudiary](https://github.com/element-bendr/steelmade-cloudiary) — production furniture brand website
-5. [chronoquill](https://github.com/element-bendr/chronoquill) — WhatsApp publishing automation
-6. [socialmediaplanner](https://github.com/element-bendr/socialmediaplanner) — structured content automation
-7. [mnemos](https://github.com/element-bendr/mnemos) — governed AI memory-system prototype
+1. [AI automation case studies](https://github.com/element-bendr/ai-automation-case-studies) — public, sanitized portfolio of systems and outcomes
+2. [steelmade-cloudiary](https://github.com/element-bendr/steelmade-cloudiary) — production furniture brand website
+3. [chronoquill](https://github.com/element-bendr/chronoquill) — reviewed WhatsApp publishing automation
+
+Selected private work is described safely in the [case studies](https://github.com/element-bendr/ai-automation-case-studies), without exposing client source or data.
 
 ## Core stack
 
