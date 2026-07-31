@@ -4,6 +4,8 @@
 
 I build practical websites, business systems, and AI automations that reduce manual work and run reliably every day.
 
+**Work with me:** [vijju83@gmail.com](mailto:vijju83@gmail.com)
+
 ## What I build
 
 - Websites: business websites, product catalogue sites, brand websites, enquiry flows
