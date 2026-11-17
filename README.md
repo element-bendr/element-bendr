@@ -2,25 +2,17 @@
 
 **AI Systems Engineer · Agentic Infrastructure · Automation · Production Web Systems**
 
+Mumbai, India / Remote
+
 I build AI-enabled systems where models operate inside deterministic software boundaries: explicit state, evidence, permissions, retries, persistence, verification, and human approval where consequences matter.
 
 My recent work has moved beyond basic LLM integrations into governed agent systems, Cloudflare-native automation, AI-assisted engineering infrastructure, and production-oriented internal tools.
 
+I have shipped production systems for paying clients since 2013. Before that, I worked in enterprise security operations at HCL.
+
 [Portfolio](https://vijay-kumaran-portfolio-ask.pages.dev/) · [Public case studies](https://github.com/element-bendr/ai-automation-case-studies)
 
 ## Selected engineering work
-
-### Personal Career Acquisition System (PCAS)
-
-Cloud-first, human-gated opportunity discovery and evaluation system built around Cloudflare Workers, Workflows, D1, Workers AI, GitHub Actions, and live Greenhouse data.
-
-Verified engineering milestones include:
-
-- 34 unit tests, 41 policy/security tests, and 270 integration tests passing on the hardened P0-P2 certification candidate
-- real Greenhouse collection and real Workers AI staging evaluation
-- deterministic evaluation replay and adversarial/privacy checks
-- recurring certified production discovery from protected `main`
-- bounded provider retries that distinguish safe read retries from mutation-capable operations
 
 ### Newsharness
 
@@ -56,9 +48,31 @@ Local-first agent runtime architecture and implementation with PostgreSQL 17 can
 
 Tile 2 required multiple independent-review rejection/repair cycles before promotion, including direct PostgreSQL destructive-operation denial proof rather than trusting application-layer intent.
 
+### Personal Career Acquisition System (PCAS)
+
+Cloud-first, human-gated opportunity discovery and evaluation system built around Cloudflare Workers, Workflows, D1, Workers AI, GitHub Actions, and live Greenhouse data.
+
+Verified engineering milestones include:
+
+- 34 unit tests, 41 policy/security tests, and 270 integration tests passing on the hardened P0-P2 certification candidate
+- real Greenhouse collection and real Workers AI staging evaluation
+- deterministic evaluation replay and adversarial/privacy checks
+- recurring certified production discovery from protected `main`
+- bounded provider retries that distinguish safe read retries from mutation-capable operations
+
 ### Palimpsest
 
 Private Git-friendly projection layer for durable AI conversation history, provenance, sanitized Markdown, verification, and downstream Memory OS / knowledge-system use.
+
+## Client work in production
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| KPDC / Trifecta | Monorepo with three public static sites and one private admin app for staff-controlled publishing | Next.js, TypeScript, Cloudflare Pages, R2 |
+| SteelMade | Production furniture brand site with product and category catalogue | Next.js, TypeScript, Sanity CMS, Cloudinary |
+| Artsports content pipeline | Six-step daily content generation cycle with an LLM abstraction layer and Meta Graph API publishing | Node.js, TypeScript, PostgreSQL |
+
+Sanitized write-ups: [ai-automation-case-studies](https://github.com/element-bendr/ai-automation-case-studies)
 
 ## What I work on
 
@@ -97,3 +111,9 @@ A model saying “done” is not a test result. Conveniently, computers can be m
 Roles and projects where this work fits best:
 
 **AI Systems Engineer · Agentic Infrastructure Engineer · Applied AI Engineer · AI Automation Engineer · Forward-Deployed AI Engineer · Full-Stack AI Engineer**
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/vijay-kumaran-12792616/)
+
+Looking for a consultant rather than a hire? See [Quiet Systems](https://vijay-kumaran-portfolio-ask.pages.dev/).
